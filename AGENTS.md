@@ -43,6 +43,8 @@ Bunlar bitmeden adım bitmiş sayılmaz:
 2. DURUM.md'yi güncelle: sıradaki adım, karakterlerin son durumu, açık sorular.
 3. `git add -A` ve `git commit -m '<adım>: <ne yapıldı>'`.
 
+Kitabın yazarı Mustafa Küçükcoşkun'dur. Her commit'in yazarı ve kaydedeni `Mustafa Küçükcoşkun <m.kucukcoskunn@gmail.com>` olur. Commit atmadan önce `git config user.name` ve `git config user.email` bunu göstermiyorsa `git config --local` ile ayarla. Commit mesajına ve PR açıklamasına Claude ya da başka bir yapay zekâ için ortak yazar, oturum bağlantısı veya imza satırı ekleme.
+
 Kayıt dosyalarını kısa tut: KANON'da satır başına tek bilgi, özet 150–200 kelime, DURUM bir ekranı geçmesin.
 
 ## 5. Ne zaman durmalı
