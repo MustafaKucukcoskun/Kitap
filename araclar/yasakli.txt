@@ -1,0 +1,53 @@
+# Uyarı listesi: kontrol.py işaretler, karar senindir.
+# Her satır küçük harfle bir ifadedir. re: ile başlayan satır düzenli ifadedir.
+# Bu kitaba özgü riskli ifadeleri en alta ekle.
+
+# Hazır beden tepkileri
+derin bir nefes
+nefesini tuttuğunu
+kalbi küt küt
+kalbi deli gibi
+kalbi hızla
+boğazı düğüm
+boğazında bir düğüm
+tüyleri diken diken
+gözleri parladı
+gözlerinde bir parıltı
+dudaklarında hafif bir gülümseme
+dudaklarının kenarında
+omuzlarından bir yük
+yutkundu
+
+# Hazır atmosfer
+sessizlik odayı
+sağır edici sessizlik
+zaman durmuş gibi
+zaman sanki durdu
+havada asılı
+yankılandı
+
+# Kehanet ve özet kapanışları
+hiçbir şey eskisi gibi
+artık geri dönüş yoktu
+her şey değişmişti
+bir şeyler değişmişti
+daha başlangıçtı
+o an anladı
+
+# Çeviri kokusu ve dolgu
+anlamına geliyordu
+bir kanıtıydı
+bir yansımasıydı
+adeta
+âdeta
+derinliklerinde
+tarafından
+
+# Yapısal kalıplar
+re:değil(di|dir)?[,;] +(bu +)?bir[ ]
+re:sadece .*değil.*aynı zamanda
+re:sanki .*sanki
+re:;
+re:[^ ] *[—–] *[^ ]
+
+# Bu kitaba özgü
