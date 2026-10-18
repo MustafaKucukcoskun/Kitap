@@ -4,14 +4,18 @@ P1 arşivi · 2026-10-17. Sonraki adımlar bu dosyayı okumaz. Seçilen fikir KO
 
 ## 0. İstekler
 
-| İstek | Durum | Önerim |
-|---|---|---|
-| Kitap dili | Türkçe | |
-| Okur | boş | Edebi roman okuyan yetişkin. Bilim kurguyla arası olmayan biri de ilk sayfadan girebilmeli. |
-| Sevdiğin eserler, ilham | boş | Ted Chiang (tek novum, duygusal kesinlik), Kazuo Ishiguro, *Beni Asla Bırakma* (bedeli sessizce kabullenen insanlar), Ursula K. Le Guin, *Omelas'ı Bırakıp Gidenler*, Yusuf Atılgan, *Anayurt Oteli* (dar kadro, taşra yoğunluğu). |
-| İstemediklerin | boş | Uzay, uzaylı, robot ya da yapay zekâ karakter. Kıyamet sonrası dünya. Seçilmiş kahraman. Karikatür kötü (kötü şirket patronu, zalim bakan). Bilimi anlatan uzun paragraflar. Zorlama mutlu son. Çeviri romandan çıkmış gibi isimler ve mekânlar. |
-| Ton | boş | Finaliste göre değişir, her finalistin altında önerim var. Ortak zemin: gerçekçi, sade, yer yer kuru mizahlı, acıyı süslemeyen. |
-| Tohum fikir | boş | Yok. Öncüller serbest üretildi. |
+İlk sürümde okur, ilham, istemedikler ve ton boştu, öneri olarak doldurdum. 2026-10-18'de yazar şunları belirledi:
+
+| İstek | Karar |
+|---|---|
+| Kitap dili | Türkçe |
+| Okur | Bilim kurgu tutkunları. |
+| Sevdiği eserler, ilham | Kevin Hearne, *Demir Druid Günlükleri* · Jim Butcher, *Dresden Dosyaları* · Frank Herbert, *Dune*. |
+| İstemedikleri | Uzay, uzaylı, robot ya da yapay zekâ karakter. Kıyamet sonrası dünya. Seçilmiş kahraman. Karikatür kötü. Bilimi anlatan uzun paragraflar. Zorlama mutlu son. Çeviri kokan isimler. (Önerim onaylandı.) |
+| Ton | Bekleniyor. Yazar soruyu açıklamamı istedi. |
+| Tohum fikir | Yok. Öncüller serbest üretildi. |
+
+İlhamlardan alınacaklar: Dresden'den kuralları belli bir güç ve şehirde başı dertte, dili sivri bir anlatıcı. Demir Druid'den modern dünyada yaşayan eski halk inancı. Dune'dan kıt bir kaynağın, gücün ve inancın siyaseti. Dune'un mesih ve seçilmiş kahraman yanı alınmaz.
 
 ## 1. İlk akla gelen 15 öncül
 
@@ -202,6 +206,8 @@ Elenenler (YZ olasılığı 0,10 ve üstü): Ö-15, Ö-16, Ö-17, Ö-18, Ö-19, 
 
 Finalistler: Ö-02, Ö-01, Ö-10.
 
+İlhamlara göre yeniden bakış (2026-10-18): F1 ve F3 sessiz, iç dünyaya dönük romanlar, ilhamlardan uzak. F2, Dune'a yakın (kıt bir kaynak ve onu yöneten güç) ama trajik ve mizahsız. 21 puan alan Ö-13 Muska üç ilhamın ortak noktasına en yakın öncül, bu yüzden F4 olarak eklendi. Ö-03 Yüz Körleri de dedektif yapısıyla Dresden'e yakın.
+
 ## 4. Finalistler
 
 Karakter adları geçicidir, P2'de kesinleşir.
@@ -259,6 +265,24 @@ Karakter adları geçicidir, P2'de kesinleşir.
 **Benzediği eserler ve farkı:** *Tristan ile İsolde* (aşk iksiri), Shakespeare, *Bir Yaz Gecesi Rüyası*, Yorgos Lanthimos, *Istakoz* (zorunlu çiftleşme). Fark: iksir bir masal hilesi değil, devletin desteklediği bir düğün ritüelidir. Çatışma bağlı ile bağsız arasındaki eşitsizlikten doğar. Görücü usulü evliliğin rıza sorusu kimyaya taşınır.
 
 **Önerilen ton:** Evin içinden boğucu bir yakınlık, ironi, yer yer kara mizah.
+
+### F4 · Muska (Ö-13, ilhamlara göre eklendi)
+
+**Logline:** İnanan için plasebonun ilaç, nosebonun zehir kadar güçlü olduğu bir İstanbul'da, muskalarının içine market fişi koyan sahte bir hoca birden şehrin en güçlü şifacısı olur. Kapısına önce hastalar, sonra beddua sipariş etmek isteyenler gelir.
+
+**Novum ve bedeli:** 2030'ların başında yayılan, belirti vermeyen bir virüs beynin beklenti devresini bedene doğrudan bağlar. İnanılan tedavi gerçek ilaç gibi iyileştirir, inanılan beddua gerçek zehir gibi hasta eder. Sınırlar: yalnızca bedenin zaten yapabildiğini hızlandırır ya da durdurur (bağışıklık, ağrı, ateş, kalp ritmi, yara iyileşmesi). Kayıp bir uzvu geri getirmez, başkasının bedenine dokunmaz. Yalnızca inananda işler: şüpheci bedduadan da şifadan da muaftır. Kuralları halk inancı koyar: insanlar kurşun dökmenin nazarı aldığına inanıyorsa alır. Bedel: inanmak savunmasız kalmaktır. Kötüye kullanım: beddua ile yaralama, inancın siyasi denetimi, sahte ocaklar.
+
+**Gündelik hayattaki izi:** Eyüp'ün muskacıları eczanelerden çok kazanır. Hekimler hastanın gözüne bakarak konuşmayı öğrenir, çünkü inandırıcılık bir tıp becerisi olmuştur. Diyanet muskaya ruhsat çıkarır, mahkemeler “beddua ile yaralama” davalarına bakar. Mutlu olan mutluluğunu saklar, çünkü nazara inanan nazar değince gerçekten hastalanır. Şüpheciler hem en güvenli hem en çaresiz insanlardır.
+
+**Ana karakter ve iç yarası:** Burak (38), piyasada “Sırrı Hoca”. Tıbbiyeden atılmış, Eyüp'te muska yazıyor. Yarası: on beş yaşında annesi için yazdığı muskalar ve ettiği dualar annesini kurtarmadı. O günden beri hiçbir şeye inanmıyor ve onu yüzüstü bırakan şeyi satarak yaşıyor.
+
+**Tema sorusu:** Bir yalan insanları iyileştiriyorsa, onu söyleyen yalancı mıdır, şifacı mı?
+
+**Olası son:** Burak'ın muskaları işledikçe kapısına önce hastalar, sonra güç sahipleri gelir. Karısını Burak'ın iyileştirdiği belediye başkanı ondan rakiplerine beddua yazmasını ister. Burak reddeder, başka hocalar yazar ve şehirde nosebo ölümleri başlar. Sonunda beddua, hastalığını Burak'ın muskasıyla durduran yeğeni Elif'e yazılır. Elif'i kurtarmanın iki yolu vardır. Birincisi ona muskaların boş kâğıt olduğunu söylemek: beddua işlemez ama hastalığı geri gelir. İkincisi halkın bildiği kuralı kullanmak: beddua, edenin ölümüyle çözülür. Burak hayatında ilk kez gerçek bir beddua yazar. Başkan, şehrin en ünlü hocasına inandığı için ölür. Burak'ı katil yapan silah kendi yalanıdır.
+
+**Benzediği eserler ve farkı:** Jim Butcher, *Dresden Dosyaları* (kuralları olan bir güç, şehirde alaycı bir anlatıcı), Neil Gaiman, *Amerikan Tanrıları* ve Terry Pratchett, *Küçük Tanrılar* (inançla var olan güç). Fark: büyü ya da tanrı yok, tek bir tıbbi novum var ve inanç yalnızca inananın kendi bedenine işler. Anadolu'nun halk inancı (nazar, kurşun dökme, ocak, al karısı) bir kural kitabına dönüşür. Kahraman büyücü değil, inanmayan bir dolandırıcıdır.
+
+**Önerilen ton:** Birinci tekil, alaycı ve hızlı bir anlatıcı (Dresden), altında ciddi bir güç savaşı (Dune): şifa kimin elindeyse şehir onundur.
 
 ## 5. Seçim
 
