@@ -290,6 +290,8 @@ Karakter adları geçicidir, P2'de kesinleşir.
 
 2026-10-19: Yazar kitapta İslam kültüründen hiçbir öğe olmamasını istedi. F4'ün kültürel katmanı (muska, hoca, Eyüp, Diyanet) bu kurala aykırı. Novum (inanılan tedavi iyileştirir, inanılan zarar hasta eder) dinden bağımsız. Kaplamanın neyle değişeceği bekleniyor.
 
+2026-10-19: Yazar İslam öncesi Türk inançlarını seçti. Konsept çalışma adı “Kargış” ile KONSEPT.md'ye taşındı.
+
 ## 6. İlham analizi
 
 2026-10-18/19. Genel bilgi ve kısa bir web taramasıyla yapıldı. Kaynakla doğrulanamayan ayrıntılar “(doğrulanmadı)” diye işaretli.
