@@ -11,7 +11,7 @@ P1 arşivi · 2026-10-17. Sonraki adımlar bu dosyayı okumaz. Seçilen fikir KO
 | Kitap dili | Türkçe |
 | Okur | Bilim kurgu tutkunları. |
 | Sevdiği eserler, ilham | Kevin Hearne, *Demir Druid Günlükleri* · Jim Butcher, *Dresden Dosyaları* · Frank Herbert, *Dune*. |
-| İstemedikleri | Uzay, uzaylı, robot ya da yapay zekâ karakter. Kıyamet sonrası dünya. Seçilmiş kahraman. Karikatür kötü. Bilimi anlatan uzun paragraflar. Zorlama mutlu son. Çeviri kokan isimler. (Önerim onaylandı.) |
+| İstemedikleri | Uzay, uzaylı, robot ya da yapay zekâ karakter. Kıyamet sonrası dünya. Seçilmiş kahraman. Karikatür kötü. Bilimi anlatan uzun paragraflar. Zorlama mutlu son. Çeviri kokan isimler. (Önerim onaylandı.) İslam kültüründen hiçbir öğe: muska, hoca, dua, cami, türbe, Diyanet ve benzerleri (2026-10-19). |
 | Ton | Bekleniyor. Yazar soruyu açıklamamı istedi. |
 | Tohum fikir | Yok. Öncüller serbest üretildi. |
 
@@ -286,4 +286,57 @@ Karakter adları geçicidir, P2'de kesinleşir.
 
 ## 5. Seçim
 
-Bekleniyor.
+2026-10-18: F4 Muska ve karışık ton seçildi (Dresden'in hızlı, alaycı birinci ağız anlatıcısı, altında Dune'un ciddi güç meselesi).
+
+2026-10-19: Yazar kitapta İslam kültüründen hiçbir öğe olmamasını istedi. F4'ün kültürel katmanı (muska, hoca, Eyüp, Diyanet) bu kurala aykırı. Novum (inanılan tedavi iyileştirir, inanılan zarar hasta eder) dinden bağımsız. Kaplamanın neyle değişeceği bekleniyor.
+
+## 6. İlham analizi
+
+2026-10-18/19. Genel bilgi ve kısa bir web taramasıyla yapıldı. Kaynakla doğrulanamayan ayrıntılar “(doğrulanmadı)” diye işaretli.
+
+### Demir Druid Günlükleri · Kevin Hearne
+- **Ne:** 2011'de *Hounded* ile başlayan dizi. 2.100 yaşında son druid Atticus O'Sullivan Arizona'da okült kitapçı işletir. Bütün mitolojilerin tanrıları ve yaratıkları gerçektir. Eleştirmenler “Amerikan Tanrıları ile Dresden'in buluşması” diyor. Bazı okurlara göre ilk üç kitaptan sonra düşüyor.
+- **İşleyen:** Birinci ağızdan şakacı ses (Hearne, Kesey'in *Guguk Kuşu* anlatıcısından etkilendiğini söylüyor). Atticus'la zihinden konuşan köpek Oberon mizah ve sıcaklık kaynağı. Kurallı güç: dövmeleri ona toprağın gücünü yalnızca çıplak ayağı toprağa değerken verir. Bilinen mitolojiyi ters çevirme: Thor iyi tanrı değil, itici biridir. Geçmişin bedeli: yüzyıllar önce çaldığı kılıç yüzünden kovalanır. Renkli yan kadro (doğrulanmadı).
+- **Zayıf:** Fazla güçlü kahraman (yaygın eleştiri, doğrulanmadı). Açıklama pasajları. Dizinin ilerledikçe düşmesi.
+
+### Dresden Dosyaları · Jim Butcher
+- **Ne:** 2000'de *Storm Front* ile başlayan dizi. Harry Dresden, Chicago telefon rehberinde büyücü diye kayıtlı tek kişi, polisin doğaüstü vakalarına yardım eden bir dedektif. Kara roman yapısı ile kentsel fantastiğin birleşimi.
+- **Doğuşu:** Butcher ilk kitabı Deborah Chester'ın yazı dersinde, öğretmeninin yöntemini birebir uygulayarak ve bunun ne kadar kötü sonuç vereceğini kanıtlamak için yazdı. Kitap yayımlanabilir çıktı. Chester'ın sonraki zanaat kitabı *The Fantasy Fiction Formula*'ya Butcher önsöz yazdı.
+- **Yapı:** Butcher'ın yazı notlarının ikincil özetlerine göre sahne ve ardıl yöntemi. Sahne: bakış açısı, karakterin hedefi, engel, ve sahne bir geri tepmeyle biter. Ardıl: karakterin sahneye tepkisi, durumu tartması ve bir sonraki sahneyi doğuran karar. İskelet: bir şey olur, kahraman bir hedefin peşine düşer, karşı güç engel olur, başaracak mı? Romanın zor orta bölümü ayrıca planlanır.
+- **İşleyen:** Kuralları belli büyü: Yedi Büyü Yasası'nı çiğneyene ağır ceza, Harry geçmişteki bir olay yüzünden Beyaz Konsey'in gözetiminde. Büyünün bir bedeli var. Alaycı, kendine gülen birinci ağız. Her kitap tek bir vaka, dizi boyunca büyüyen bir savaş. Her şey ters gider ama Harry vazgeçmez.
+- **Bildiğim ama doğrulamadığım:** Büyücünün yanında elektronik aletlerin bozulması, ev eşiğinin büyüyü zayıflatması, akan suyun büyüyü kesmesi, konuşan kafatası Bob ve köpek Mouse gibi yan karakterler.
+
+### Dune · Frank Herbert (1965)
+- **Ne:** Çöl gezegeni Arrakis, evrende yalnızca orada bulunan baharat ve onu ele geçirmek için savaşan güçler.
+- **Doğuşu:** Herbert'in 1957'de Oregon'da kumulları otla sabitleme projesi üzerine yaptığı yazı araştırması. Ekoloji kitabın omurgası.
+- **İşleyen:** Tek bir kıt kaynak bütün siyaseti, ekonomiyi ve inancı biçimlendirir (ikinci ve üçüncü derece sonuçlar). İnanç mühendisliği: Bene Gesserit'in Missionaria Protectiva kolu halklara uydurma kehanetler eker, sonra onları kullanır. Paul, Fremenlere ekilmiş mesih efsanesini hayatta kalmak için kullanır. Karizmatik kurtarıcının tehlikesi (yaygın yorum, *Dune Mesihi* bunu açar). Bölüm başı epigrafları: Prenses Irulan'ın sonradan yazdığı kitaplardan alıntılar dünya bilgisini, tonu ve geleceğe dair ipuçlarını eylemi durdurmadan verir.
+- **Dikkat:** Dune'un dini katmanı büyük ölçüde İslam ve Arap kültüründen beslenir (Fremen sözcükleri Arapçadan, mehdi, cihat, İbn Haldun etkisi). Bu kitapta Dune'un yapısı alınır, bu kaplaması alınmaz.
+
+### Önerilen: kitaba alınacaklar
+- Birinci ağızdan, alaycı, başı dertte bir anlatıcı (Dresden, Demir Druid).
+- Kuralı ve sınırı net bir güç. Sınır kahramanı zekâsına mecbur bırakır (üçü).
+- Sahne ve ardıl yapısı, her şeyin ters gittiği bir ilerleyiş, planlanmış bir orta bölüm (Dresden).
+- Kahramanı kovalayan bir geçmiş (Demir Druid, Dresden).
+- Tek bir kıt şeyin siyaseti, inancın ekilip hasat edilen bir güç aracı olması (Dune).
+- Dünya bilgisini eylemi kesmeden veren bir araç, epigraf gibi (Dune). USLUP'ta değerlendirilecek.
+- **Alınmayacaklar:** gerçek tanrılar ve doğaüstü varlıklar (tek novum kuralı), seçilmiş kahraman ve mesih, fazla güçlü kahraman, dizi yapısı, İslam kültüründen öğeler.
+
+### Kaynaklar
+- https://mythsoc.org/reviews/the-iron-druid-chronicles.htm
+- https://www.sffworld.com/?p=4964
+- https://penguinrandomhouse.com/books/202871/hounded-by-kevin-hearne
+- https://www.grimdarkmagazine.com/an-interview-with-kevin-hearne/
+- https://shaunduke.net/2011/09/interview-with-kevin-hearne-6
+- https://en.wikipedia.org/wiki/The_Dresden_Files
+- https://en.wikipedia.org/wiki/Deborah_Chester
+- https://mobileread.com/forums/showthread.php?p=466910
+- https://writingexcuses.com/15-24-keeping-it-fresh-with-jim-butcher/
+- https://www.goodreads.com/topic/show/21108787-open-thread?page=4
+- https://www.oregonencyclopedia.org/articles/herbert-frank-and-the-dune-series/
+- https://kobi5.com/?p=223539
+- https://Www.wikipedia.org/wiki/Fremen
+- https://archania.org/p/the-symbolic-world/symbolic-works/literature/dune
+- https://en.wikipedia.org/wiki/Princess_Irulan
+- https://blog.wordnik.com/category/authors
+- https://religionnews.com/2021/10/18/dune-novels-draw-on-islamic-motifs-and-have-in-turn-inspired-muslim-artists/
+- https://juancole.com/2024/03/dune-islamic-dimension.html
